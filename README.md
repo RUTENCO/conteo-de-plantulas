@@ -41,7 +41,8 @@ Puedes instalarlas ejecutando:
 ```bash
 pip install opencv-python numpy
 ```
-🚀 Uso
+## 🚀 Uso
+
 Clona el repositorio:
 
 ```bash
@@ -71,28 +72,26 @@ other: muestra la transformada de distancia.
 Presiona la tecla espacio para pausar/reanudar el procesamiento. Presiona q para salir.
 
 📦 Estructura del Proyecto
-bash
+````bash
 plants-counter/
 ├── count.py             # Código principal de conteo
 ├── tracker.py           # Lógica de rastreo de objetos
 ├── README.md            # Documentación del proyecto
 └── videos/              # Carpeta opcional para guardar videos de entrada
+````
 
 📷 Recomendaciones para los Videos
-Las plántulas deben tener coloración verde visible.
 
-El fondo debe tener suficiente contraste con las plantas.
-
-Movimiento preferido: cámara de derecha a izquierda, plántulas de izquierda a derecha.
+- Las plántulas deben tener coloración verde visible.
+- El fondo debe tener suficiente contraste con las plantas.
+- Movimiento preferido: cámara de derecha a izquierda, plántulas de izquierda a derecha.
 
 🧩 Posibles Mejoras Futuras
-Entrenamiento con redes neuronales para mejorar la detección.
 
-Exportación de estadísticas a CSV.
-
-Interfaz gráfica (GUI).
-
-Soporte para múltiples líneas de conteo.
+- Entrenamiento con redes neuronales para mejorar la detección.
+- Exportación de estadísticas a CSV.
+- Interfaz gráfica (GUI).
+- Soporte para múltiples líneas de conteo.
 
 
 📬 Contacto
