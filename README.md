@@ -18,6 +18,9 @@ Las plántulas son segmentadas, identificadas y rastreadas a través de los cuad
 
 ---
 
+## 📷 Resultado del procesamiento de imagen
+(img/captura.png)
+
 ## 🧠 Características técnicas
 
 - Conversión de color a espacio **LAB** para segmentación robusta.
