@@ -98,6 +98,8 @@ Si tienes preguntas, sugerencias o deseas colaborar, no dudes en contactar a:
 
 - Daniel Ramírez Cárdenas
 - 📧 daniel.ramirez7@udea.edu.co
+- Sneyder Buitrago González
+- 📧 sneyder.buitrago@udea.edu.co
 - 📍 Medellín, Colombia
 
 
