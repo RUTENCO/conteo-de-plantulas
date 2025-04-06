@@ -40,3 +40,43 @@ Puedes instalarlas ejecutando:
 
 ```bash
 pip install opencv-python numpy
+
+📷 Recomendaciones para los Videos
+Las plántulas deben tener coloración verde visible.
+
+El fondo debe tener suficiente contraste con las plantas.
+
+Movimiento preferido: cámara de derecha a izquierda, plántulas de izquierda a derecha.
+
+🚀 Uso
+Clona el repositorio:
+
+bash
+git clone https://github.com/tu-usuario/plants-counter.git
+cd plants-counter
+Asegúrate de tener el archivo de video que deseas procesar.
+
+Ejecuta el programa con el siguiente comando:
+
+bash
+python count.py <ruta_al_video>
+Ejemplo:
+
+bash
+python count.py videos/plantulas.mp4
+Durante la ejecución se abrirán varias ventanas:
+
+video: muestra el video con los objetos rastreados y el contador.
+
+proc: muestra la segmentación de objetos con watershed.
+
+other: muestra la transformada de distancia.
+
+Presiona la tecla espacio para pausar/reanudar el procesamiento. Presiona q para salir.
+
+📬 Contacto
+Si tienes preguntas, sugerencias o deseas colaborar, no dudes en contactar a:
+
+Daniel Ramírez Cárdenas
+📧 daniel.ramirez7@udea.edu.co
+📍 Medellín, Colombia
