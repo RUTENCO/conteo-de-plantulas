@@ -19,7 +19,7 @@ Las plántulas son segmentadas, identificadas y rastreadas a través de los cuad
 ---
 
 ## 📷 Resultado del procesamiento de imagen
-(img/img.png)
+![Captura del proyecto](img/img.png)
 
 ## 🧠 Características técnicas
 
