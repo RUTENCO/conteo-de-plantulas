@@ -63,15 +63,13 @@ python count.py videos/plantulas.mp4
 ```
 Durante la ejecución se abrirán varias ventanas:
 
-video: muestra el video con los objetos rastreados y el contador.
-
-proc: muestra la segmentación de objetos con watershed.
-
-other: muestra la transformada de distancia.
+- video: muestra el video con los objetos rastreados y el contador.
+- proc: muestra la segmentación de objetos con watershed.
+- other: muestra la transformada de distancia.
 
 Presiona la tecla espacio para pausar/reanudar el procesamiento. Presiona q para salir.
 
-📦 Estructura del Proyecto
+## 📦 Estructura del Proyecto
 ````bash
 plants-counter/
 ├── count.py             # Código principal de conteo
@@ -80,13 +78,13 @@ plants-counter/
 └── videos/              # Carpeta opcional para guardar videos de entrada
 ````
 
-📷 Recomendaciones para los Videos
+## 📷 Recomendaciones para los Videos
 
 - Las plántulas deben tener coloración verde visible.
 - El fondo debe tener suficiente contraste con las plantas.
 - Movimiento preferido: cámara de derecha a izquierda, plántulas de izquierda a derecha.
 
-🧩 Posibles Mejoras Futuras
+## 🧩 Posibles Mejoras Futuras
 
 - Entrenamiento con redes neuronales para mejorar la detección.
 - Exportación de estadísticas a CSV.
@@ -94,12 +92,13 @@ plants-counter/
 - Soporte para múltiples líneas de conteo.
 
 
-📬 Contacto
+## 📬 Contacto
+
 Si tienes preguntas, sugerencias o deseas colaborar, no dudes en contactar a:
 
-Daniel Ramírez Cárdenas
-📧 daniel.ramirez7@udea.edu.co
-📍 Medellín, Colombia
+- Daniel Ramírez Cárdenas
+- 📧 daniel.ramirez7@udea.edu.co
+- 📍 Medellín, Colombia
 
 
 
